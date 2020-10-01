@@ -45,7 +45,7 @@ class _MyHomePageState extends State<MyHomePage> {
     User(
         id: 1,
         createAt: 1234234,
-        email: 'yasintuncel@gmail.com',
+        email: 'abc@domain.com',
         userName: 'yasintuncel',
         firstName: 'yasin',
         lastName: 'tuncel',
@@ -53,7 +53,7 @@ class _MyHomePageState extends State<MyHomePage> {
     User(
         id: 2,
         createAt: 34234234,
-        email: ',bedireray@gmail.com',
+        email: ',def@domain.com',
         userName: 'bedireray',
         firstName: 'bedir',
         lastName: 'eray',
@@ -61,7 +61,7 @@ class _MyHomePageState extends State<MyHomePage> {
     User(
         id: 3,
         createAt: 345345,
-        email: 'mahmut@gmail.com',
+        email: 'mahmut@domain.com',
         userName: 'mahmutLolcu',
         firstName: 'mahmut',
         lastName: 'ozovacik',
