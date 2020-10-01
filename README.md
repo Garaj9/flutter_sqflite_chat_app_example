@@ -1,16 +1,22 @@
-# sql_lite
+# flutter 'sqflite' example
 
-A new Flutter project.
+This project contain local sql part of simple chat app client.
 
-## Getting Started
+You can see listed feature in this project.
 
-This project is a starting point for a Flutter application.
+- how to create local database
+- how to work CRUD functions of sqflite package
 
-A few resources to get you started if this is your first Flutter project:
+** user model
+** post model 
+** channel model
+** channel member model
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+** users table,
+** posts table,
+** channels table,
+** channelMembers table,
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+** singleton class for sql manager and how to use it in other class
+
+
