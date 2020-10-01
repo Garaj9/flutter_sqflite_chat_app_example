@@ -6,11 +6,11 @@ import 'channel_member.dart';
 import 'post.dart';
 import 'user.dart';
 
-const String DATABASE_NAME = 'g9root.db';
-const String USERS_TABLE_NAME = 'g9users';
-const String CHANNELS_TABLE_NAME = 'g9channels';
-const String CHANNEL_MEMBERS_TABLE_NAME = 'g9channelmembers';
-const String POST_TABLE_NAME = 'g9post';
+const String DATABASE_NAME = 'dbname.db';
+const String USERS_TABLE_NAME = 'users';
+const String CHANNELS_TABLE_NAME = 'channels';
+const String CHANNEL_MEMBERS_TABLE_NAME = 'channelmembers';
+const String POST_TABLE_NAME = 'posts';
 
 SqlManager sqlManager = new SqlManager();
 
