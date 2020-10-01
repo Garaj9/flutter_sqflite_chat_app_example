@@ -7,16 +7,16 @@ You can see listed feature in this project.
 - how to create local database
 - how to work CRUD functions of sqflite package
 
-** user model
-** post model 
-** channel model
-** channel member model
+* user model
+* post model 
+* channel model
+* channel member model
 
-** users table,
-** posts table,
-** channels table,
-** channelMembers table,
+* users table,
+* posts table,
+* channels table,
+* channelMembers table,
 
-** singleton class for sql manager and how to use it in other class
+* singleton class for sql manager and how to use it in other class
 
 
